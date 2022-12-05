@@ -1,0 +1,248 @@
+{
+    "group": "com.apple.siri",
+    "name": "Hanguk-Scenario-3",
+    "version": "1.5",
+    "storage": {
+        "provider": "kennel",
+        "location": "sxr-Hanguk-study"
+    },
+    "voice": {
+        "name": "low quality English",
+        "languageId": "en-US",
+        "gender": "female",
+        "footprint": "compact",
+        "dataType": "vocalizer",
+        "architecture": "server"
+    },
+    "script": {
+        "testCases": [
+            {
+                "name": "welcome",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "instructions": [
+                    {
+                        "type": "print",
+                        "text": "Thank you for helping in data collection."
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "facetime_collection1",
+                "config": {
+                    "audio": false,
+                    "video": true
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": ""
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "facetime_collection2",
+                "config": {
+                    "audio": false,
+                    "video": true
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": ""
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "facetime_collection3",
+                "config": {
+                    "audio": false,
+                    "video": true
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": ""
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "facetime_collection4",
+                "config": {
+                    "audio": false,
+                    "video": true
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": ""
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "facetime_collection5",
+                "config": {
+                    "audio": false,
+                    "video": true
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": ""
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "facetime_collection6",
+                "config": {
+                    "audio": false,
+                    "video": true
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": ""
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "facetime_collection7",
+                "config": {
+                    "audio": false,
+                    "video": true
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": ""
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "facetime_collection8",
+                "config": {
+                    "audio": false,
+                    "video": true
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": ""
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "facetime_collection9",
+                "config": {
+                    "audio": false,
+                    "video": true
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": ""
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "facetime_collection10",
+                "config": {
+                    "audio": false,
+                    "video": true
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": ""
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            }
+        ]
+    }
+}
