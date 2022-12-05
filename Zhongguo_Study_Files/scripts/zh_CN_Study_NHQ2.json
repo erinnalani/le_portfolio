@@ -1,0 +1,1529 @@
+{
+    "group": "com.apple.siri",
+    "name": "zh_CN Study NHQ2",
+    "version": "1.2",
+    "storage": {
+        "provider": "kennel",
+        "location": "sxr-Zhongguo-study"
+    },
+    "voice": {
+        "name": "low quality English",
+        "languageId": "en-US",
+        "gender": "female",
+        "footprint": "compact",
+        "dataType": "vocalizer",
+        "architecture": "server"
+    },
+    "script": {
+        "testCases": [
+            {
+                "name": "welcome",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "instructions": [
+                    {
+                        "type": "print",
+                        "text": "Thank you for helping in data collection."
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection71",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 混合直到面"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection72",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 团光滑而坚硬"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection73",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 生命历程的弧线"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection74",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 没有载体"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection75",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 除非它很重要"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection76",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 否则不需要染料"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection77",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 在已经说过的情况下"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection78",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 它不会被遵循他希望"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection79",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 說中的标题后面"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection80",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 现在的生活"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection81",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 不过是想成为"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection82",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 有尊严的一员"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection83",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 任何元素"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection84",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 也不应装饰青铜元素"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection85",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 自由市场的元素"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection86",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 现在并不讨好大众"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection87",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 现在需要"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection88",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 将巧克力卡"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection89",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 通放入某种蔬菜沙拉中"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection90",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 我决不应该"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection91",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 担心任何篮球投篮"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection92",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 你需要"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection93",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 一套完整的卡车"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection94",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 床不是"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection95",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 为大燕雀瓮"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection96",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 让航空公司"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection97",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 需要疾病"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection98",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 的痛苦而"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection99",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 不是笑声"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection100",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 巧克力现在"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection101",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 在孩子们的嘴里"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection102",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 现在结果"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection103",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 有时更有趣"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection104",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 据说他就住在"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection105",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 这条街上"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection106",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 而大山"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection107",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 会生出一股"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection108",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 巨大的推力"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection109",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 会生出一只"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection110",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 滑稽的老鼠"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection111",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 并在课程中"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection112",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 投资爱欲的前庭"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection113",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 现在一直在等待"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection114",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 或者还有"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection115",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 某种巧克力味"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection116",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 很高兴上帝"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection117",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 要用蝴蝶结装饰它"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection118",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 笑声现在"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection119",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 不需要触发"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection120",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 现在地球"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection121",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 是生命之箭"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection122",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 的元素"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection123",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 痛苦之后"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection124",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 应该是家人的辅导"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection125",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 老人和年轻人"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection126",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 以及预期的饥饿和耻辱"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection127",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 他不需要"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection128",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 为足球目标"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection129",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 进行充分的热身"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection130",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 但是湖很丑"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection131",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 卡车就是这样"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection132",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 遵循教练过程非常困难"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection133",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 它遵循的是很高兴"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection134",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 上帝要用蝴蝶结装饰它"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection135",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 在生活丑陋的质量"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection136",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 但需要时间的元素"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection137",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 目前的压"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection138",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 力水平应该很大"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection139",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 但现在"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection140",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 它旨在推动"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            },
+            {
+                "name": "collection141",
+                "config": {
+                    "audio": false,
+                    "video": false
+                },
+                "scene": {
+                    "id": "default"
+                },
+                "tags": [
+                    "farfield",
+                    "noisy"
+                ],
+                "prompts": [
+                    {
+                        "type": "print",
+                        "text": "你好, 卡通生活作业的成功"
+                    }
+                ],
+                "moderatorNotes": "Notes for moderator"
+            }
+        ]
+    }
+}
