@@ -1,11 +1,15 @@
-# Generates Filtered CSV for upload_to_kennel script and session_json script or
-# Kennel Upload Log for the Table of Contents in Kennel bucket
+# Generates Filtered CSV for upload script and session_json script or
+# Upload Log for the Table of Contents in upload bucket
 
 # ****** Version History *******
 #   1.1 
 #   Added logic for Hanguk Study
 #   1.2 
 #   Added user input error handling
+#   1.3
+#   Modified error handling
+#   Added MismatchError
+#   Simplified logic for calling functions
 
 import pandas as pd
 from pprint import pprint
@@ -13,6 +17,23 @@ import numpy as np
 from os import path
 
 pd.set_option('display.max_columns', None)
+
+zh_columns = ['Date', 'Room', 'Build', 'Timestamps', 'Time', 'Stage', 'Subject ID', 'Moderator(s)', 'Native Speaker',
+              'Mask', 'Session', 'Trigger', 'Background Noise', 'Imposter', 'Section', 'Utterances Recorded', 'Target',
+              'Still Needed Per Use Case', 'Starting From', 'Issue Tags', 'Notes', 'Path', 'Kennel Link', 'Redo']
+
+hg_columns = ['Date', 'Room', 'Build', 'Subject ID', 'Participant #', 'ICF', 'Moderator(s)', 'Mask', 'Native Speaker',
+              'Timestamps', 'Stage', 'Time', 'Scenario', 'Timeout', 'Last Prompt Recorded', 'Reverse Order',
+              'Total Prompts Recorded',
+              'Total Time (per session)', 'Issue Tags', 'Issue Description/Notes', 'Post Study Survey Completed',
+              'Path', 'Kennel Link']
+
+class MismatchError(Exception):
+    """Raises error when user calls the incorrect function for the input Excel sheet. For example,
+    generate_filtered_csv can only be used with the Zhongguo Study Excel file, while generate_filtered_csv_hanguk must
+    be used with the Hanguk Study Excel file.
+    """
+    pass
 
 
 def delete_blank_rows(df):
@@ -39,6 +60,10 @@ def fill_in_info(df):
 
 
 def generate_filtered_csv(df):
+    headers = list(df.columns)
+    if headers not in zh_columns:
+        raise MismatchError
+        
     df.drop(columns=['Date', 'Timestamps', 'Time', 'Stage', 'Moderator(s)', 'Session', 'Utterances Recorded',
                      'Target', 'Still Needed Per Use Case', 'Starting From', 'Issue Tags', 'Notes', 'Kennel Link',
                      'Redo'], inplace=True)
@@ -46,6 +71,10 @@ def generate_filtered_csv(df):
 
 
 def generate_upload_csv(df):
+    headers = list(df.columns)
+    if headers not in zh_columns:
+        raise MismatchError
+        
     df.drop(columns=['Date', 'Timestamps', 'Time', 'Stage', 'Moderator(s)', 'Session', 'Utterances Recorded',
                      'Target', 'Still Needed Per Use Case', 'Starting From', 'Issue Tags', 'Notes', 'Path',
                      'Redo'], inplace=True)
@@ -53,6 +82,10 @@ def generate_upload_csv(df):
 
 
 def generate_filtered_csv_hanguk(df):
+    headers = list(df.columns)
+    if headers not in hg_columns:
+        raise MismatchError
+        
     df.drop(columns=['Date', 'Participant #', 'ICF', 'Moderator(s)', 'Timestamps', 'Time', 'Stage',
                      'Timeout', 'Last Prompt Recorded', 'Total Prompts Recorded',
                      'Total Time (per session)', 'Issue Tags', 'Issue Description/Notes', 'Post Study Survey Completed',
@@ -61,56 +94,47 @@ def generate_filtered_csv_hanguk(df):
 
 
 def generate_upload_csv_hanguk(df):
+    headers = list(df.columns)
+    if headers not in hg_columns:
+        raise MismatchError
+        
     df.drop(columns=['Date', 'Participant #', 'ICF', 'Moderator(s)', 'Timestamps', 'Time', 'Stage',
                      'Scenario', 'Timeout', 'Last Prompt Recorded', 'Reverse Order', 'Total Prompts Recorded',
                      'Total Time (per session)', 'Issue Tags', 'Issue Description/Notes', 'Path',
                      'Post Study Survey Completed'], inplace=True)
     df.to_csv(path.join(path.expanduser('~'), 'Downloads', 'hanguk_upload_log.csv'), index=False)
+   
+
+key_map = {'1': {'A': generate_filtered_csv,
+                 'B': generate_upload_csv
+                 },
+           '2': {'A': generate_filtered_csv_hanguk,
+                 'B': generate_upload_csv_hanguk
+                 }
+           }
 
 
-def choose_study():
+def make_selections():
     study = input('Which study CSV would you like?\n 1: Zhongguo Study\n 2: Hanguk Study\n')
-    return study
+    doc = input('Which CSV would you like to generate?\n A: Filtered CSV\n B: Upload Log\n')
+    return study, doc
 
 
 def choose_csv():
-    for i in range(5):
-        study = choose_study()
-        if study not in ("1", "2"):
-            print('Invalid answer. Please choose 1 or 2.')
-        else:
-            while True:
-                answer = input('Which CSV would you like to generate?\n A: Filtered CSV\n B: Upload Log\n')
-                if answer in ('A', 'a') and study == "1":
-                    generate_filtered_csv(df_yeet)
-                    pprint(df_yeet.head())
-                    print('CSV generated.')
-                    exit()
-                elif answer in ('B', 'b') and study == "1":
-                    generate_upload_csv(df_yeet)
-                    pprint(df_yeet.head())
-                    print('CSV generated.')
-                    exit()
-                elif answer in ('A', 'a') and study == "2":
-                    generate_filtered_csv_hanguk(df_yeet)
-                    pprint(df_yeet.head())
-                    print('CSV generated.')
-                    exit()
-                elif answer in ('B', 'b') and study == "2":
-                    generate_upload_csv_hanguk(df_yeet)
-                    pprint(df_yeet.head())
-                    print('CSV generated.')
-                    exit()
-                else:
-                    print('Invalid entry. Please choose A or B.')
-                    i += 1
-                    if i > 5:
-                        result = input('You seem confused. Do you want to exit? (y/n)')
-                        if result not in ('Y', 'y'):
-                            continue
-                        else:
-                            exit()
-
+    study_choice, doc_choice = make_selections()
+    while True:
+        try:
+            key_map[study_choice][doc_choice.upper()](df_yeet)
+            print('CSV generated.')
+            break
+        except KeyError:
+            print('Invalid entry. Please choose 1 or 2 to choose study and A or B to choose document.')
+            choose_csv()
+            break
+        except MismatchError:
+            print('Study chosen does not match Excel sheet.')
+            break
+            
 
 if __name__ == '__main__':
 
