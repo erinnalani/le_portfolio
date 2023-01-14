@@ -61,7 +61,8 @@ def fill_in_info(df):
 
 def generate_filtered_csv(df):
     headers = list(df.columns)
-    if headers not in zh_columns:
+    check = all(elem in headers for elem in zh_columns)
+    if not check:
         raise MismatchError
         
     df.drop(columns=['Date', 'Timestamps', 'Time', 'Stage', 'Moderator(s)', 'Session', 'Utterances Recorded',
@@ -72,7 +73,8 @@ def generate_filtered_csv(df):
 
 def generate_upload_csv(df):
     headers = list(df.columns)
-    if headers not in zh_columns:
+    check = all(elem in headers for elem in zh_columns)
+    if not check:
         raise MismatchError
         
     df.drop(columns=['Date', 'Timestamps', 'Time', 'Stage', 'Moderator(s)', 'Session', 'Utterances Recorded',
@@ -83,7 +85,8 @@ def generate_upload_csv(df):
 
 def generate_filtered_csv_hanguk(df):
     headers = list(df.columns)
-    if headers not in hg_columns:
+    check = all(elem in headers for elem in hg_columns)
+    if not check:
         raise MismatchError
         
     df.drop(columns=['Date', 'Participant #', 'ICF', 'Moderator(s)', 'Timestamps', 'Time', 'Stage',
@@ -95,7 +98,8 @@ def generate_filtered_csv_hanguk(df):
 
 def generate_upload_csv_hanguk(df):
     headers = list(df.columns)
-    if headers not in hg_columns:
+    check = all(elem in headers for elem in hg_columns)
+    if not check:
         raise MismatchError
         
     df.drop(columns=['Date', 'Participant #', 'ICF', 'Moderator(s)', 'Timestamps', 'Time', 'Stage',
