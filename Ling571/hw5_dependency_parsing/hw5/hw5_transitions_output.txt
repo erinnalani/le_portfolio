@@ -1,0 +1,7464 @@
+SHIFT
+SHIFT
+(LEFTARC, compound)
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(RIGHTARC, nmod:tmod)
+SHIFT
+SHIFT
+(LEFTARC, mark)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, det)
+SHIFT
+SHIFT
+(LEFTARC, punct)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, appos)
+(RIGHTARC, dobj)
+(RIGHTARC, xcomp)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(RIGHTARC, dobj)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, nummod)
+(LEFTARC, case)
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, nmod)
+(RIGHTARC, xcomp)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, amod)
+(RIGHTARC, dobj)
+SHIFT
+SHIFT
+(LEFTARC, mark)
+SHIFT
+(RIGHTARC, dobj)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, det)
+(RIGHTARC, dobj)
+(RIGHTARC, conj)
+(RIGHTARC, xcomp)
+(RIGHTARC, xcomp)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+(LEFTARC, punct)
+(LEFTARC, nmod:tmod)
+(LEFTARC, punct)
+(LEFTARC, nmod)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, punct)
+(LEFTARC, amod)
+(LEFTARC, det)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, compound)
+(RIGHTARC, conj)
+(RIGHTARC, nmod)
+(RIGHTARC, dobj)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, case)
+(LEFTARC, cop)
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+SHIFT
+(RIGHTARC, case)
+SHIFT
+(LEFTARC, nmod:poss)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, auxpass)
+(LEFTARC, nsubjpass)
+(LEFTARC, mark)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, nmod)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, nmod)
+(RIGHTARC, conj)
+(RIGHTARC, dep)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, det)
+SHIFT
+SHIFT
+(LEFTARC, auxpass)
+(LEFTARC, nsubjpass)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, det)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+(LEFTARC, nmod:poss)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(RIGHTARC, appos)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, conj)
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+(LEFTARC, mark)
+SHIFT
+SHIFT
+(RIGHTARC, case)
+SHIFT
+SHIFT
+(LEFTARC, punct)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(RIGHTARC, nummod)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, advmod)
+(LEFTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(RIGHTARC, nummod)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, dep)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, dep)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, dep)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, det)
+(LEFTARC, advmod)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, acl:relcl)
+(RIGHTARC, dobj)
+(RIGHTARC, advcl)
+(RIGHTARC, xcomp)
+(RIGHTARC, dep)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, amod)
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, nmod)
+(RIGHTARC, nmod)
+(RIGHTARC, dep)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+(LEFTARC, det)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, cop)
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+(LEFTARC, punct)
+(LEFTARC, ccomp)
+SHIFT
+SHIFT
+(LEFTARC, compound)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, amod)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, det)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, appos)
+(RIGHTARC, nsubj)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, cop)
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, det)
+(RIGHTARC, xcomp)
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+(LEFTARC, dobj)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+SHIFT
+(LEFTARC, nsubj)
+(LEFTARC, mark)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, det)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, det)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, dobj)
+(RIGHTARC, advcl)
+(RIGHTARC, ccomp)
+(RIGHTARC, conj)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+(LEFTARC, compound)
+SHIFT
+SHIFT
+(LEFTARC, punct)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, appos)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+(RIGHTARC, conj)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, cop)
+(LEFTARC, mark)
+(LEFTARC, advmod)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+SHIFT
+SHIFT
+(LEFTARC, cop)
+(LEFTARC, nsubj)
+(LEFTARC, punct)
+(LEFTARC, advcl)
+(LEFTARC, punct)
+(LEFTARC, mark)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, punct)
+(LEFTARC, mark)
+SHIFT
+(RIGHTARC, dobj)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(RIGHTARC, dobj)
+(RIGHTARC, conj)
+(RIGHTARC, advcl)
+(RIGHTARC, ccomp)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, advmod)
+(LEFTARC, nsubj)
+(LEFTARC, mark)
+SHIFT
+(RIGHTARC, dobj)
+SHIFT
+SHIFT
+(RIGHTARC, dobj)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, cop)
+(LEFTARC, nsubj)
+(LEFTARC, mark)
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+(LEFTARC, advmod)
+(LEFTARC, mark)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, det)
+(RIGHTARC, dobj)
+(RIGHTARC, advcl)
+(RIGHTARC, acl:relcl)
+(RIGHTARC, conj)
+(RIGHTARC, dep)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, root)
+(RIGHTARC, root)
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+(LEFTARC, compound)
+SHIFT
+SHIFT
+(LEFTARC, aux)
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, advmod)
+(RIGHTARC, dobj)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, case)
+SHIFT
+(RIGHTARC, case)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+(RIGHTARC, dobj)
+(RIGHTARC, acl:relcl)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, advmod)
+(LEFTARC, cop)
+(LEFTARC, nsubj)
+(LEFTARC, mark)
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, amod)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, ccomp)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(RIGHTARC, conj)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, nmod:poss)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+(RIGHTARC, advmod)
+(RIGHTARC, nmod:tmod)
+(RIGHTARC, advcl)
+(RIGHTARC, dep)
+(RIGHTARC, dep)
+(RIGHTARC, dep)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, nmod)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(RIGHTARC, conj)
+SHIFT
+(LEFTARC, nsubj)
+(LEFTARC, cc)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, aux)
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+(LEFTARC, mark)
+SHIFT
+(RIGHTARC, dobj)
+SHIFT
+SHIFT
+(LEFTARC, case)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, det)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, dobj)
+(RIGHTARC, acl:relcl)
+(RIGHTARC, nmod)
+(RIGHTARC, xcomp)
+(RIGHTARC, ccomp)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, det)
+SHIFT
+SHIFT
+(LEFTARC, aux)
+(LEFTARC, nsubj)
+(LEFTARC, mark)
+SHIFT
+(RIGHTARC, xcomp)
+SHIFT
+SHIFT
+(LEFTARC, mark)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, amod)
+(LEFTARC, nmod:poss)
+(RIGHTARC, dobj)
+(RIGHTARC, advcl)
+(RIGHTARC, ccomp)
+(RIGHTARC, xcomp)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, det)
+(LEFTARC, neg)
+(LEFTARC, aux)
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, advmod)
+SHIFT
+SHIFT
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+(RIGHTARC, conj)
+SHIFT
+(LEFTARC, compound)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, case)
+(LEFTARC, cop)
+(LEFTARC, nsubj)
+(LEFTARC, mark)
+(RIGHTARC, advcl)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, mark)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, punct)
+(LEFTARC, amod)
+(LEFTARC, punct)
+(LEFTARC, amod)
+(LEFTARC, det)
+(RIGHTARC, dobj)
+(RIGHTARC, acl)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, det)
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, auxpass)
+(LEFTARC, aux)
+(LEFTARC, nsubjpass)
+(LEFTARC, dep)
+(RIGHTARC, conj)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, det)
+(LEFTARC, cop)
+(LEFTARC, aux)
+(LEFTARC, nsubj)
+(LEFTARC, punct)
+(LEFTARC, advmod)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, det)
+SHIFT
+SHIFT
+(LEFTARC, aux)
+(LEFTARC, nsubj)
+(RIGHTARC, ccomp)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+(LEFTARC, punct)
+(LEFTARC, punct)
+(LEFTARC, ccomp)
+(LEFTARC, mark)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, det)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, ccomp)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, root)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+SHIFT
+(RIGHTARC, case)
+SHIFT
+(LEFTARC, nmod:poss)
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, advmod)
+(LEFTARC, advmod)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, expl)
+(LEFTARC, punct)
+(LEFTARC, nmod)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+(LEFTARC, nmod:poss)
+SHIFT
+SHIFT
+(LEFTARC, case)
+SHIFT
+SHIFT
+(RIGHTARC, mwe)
+SHIFT
+(RIGHTARC, mwe)
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+(LEFTARC, compound)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(RIGHTARC, conj)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(RIGHTARC, conj)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(RIGHTARC, conj)
+(RIGHTARC, conj)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, nmod)
+(RIGHTARC, dobj)
+(RIGHTARC, acl:relcl)
+(RIGHTARC, nsubj)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(RIGHTARC, case)
+SHIFT
+(LEFTARC, nmod:poss)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+SHIFT
+SHIFT
+(LEFTARC, auxpass)
+(LEFTARC, nsubjpass)
+(LEFTARC, punct)
+(LEFTARC, advcl)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, case)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, det)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, amod)
+(RIGHTARC, dobj)
+(RIGHTARC, acl:relcl)
+(RIGHTARC, nmod)
+(RIGHTARC, appos)
+(RIGHTARC, nmod)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+(LEFTARC, advmod)
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, auxpass)
+(LEFTARC, aux)
+(LEFTARC, aux)
+(LEFTARC, nsubjpass)
+(LEFTARC, punct)
+(LEFTARC, dep)
+(LEFTARC, det)
+(RIGHTARC, dobj)
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, ccomp)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+(LEFTARC, mark)
+SHIFT
+(RIGHTARC, dobj)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, auxpass)
+(LEFTARC, aux)
+(LEFTARC, nsubjpass)
+(LEFTARC, mark)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, cop)
+(LEFTARC, mark)
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, advcl)
+(RIGHTARC, advcl)
+(RIGHTARC, advcl)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+(LEFTARC, compound)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, compound)
+(RIGHTARC, dep)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, det)
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+(LEFTARC, nsubj)
+(LEFTARC, mark)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, det)
+(RIGHTARC, dobj)
+SHIFT
+SHIFT
+(LEFTARC, punct)
+(LEFTARC, advcl)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, advmod)
+(LEFTARC, mark)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, cc)
+(LEFTARC, punct)
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, amod)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+SHIFT
+SHIFT
+(LEFTARC, case)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(RIGHTARC, conj)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+(RIGHTARC, conj)
+(RIGHTARC, nmod)
+(RIGHTARC, dobj)
+(RIGHTARC, acl)
+(RIGHTARC, nmod)
+(RIGHTARC, xcomp)
+(RIGHTARC, advcl)
+(RIGHTARC, acl)
+(RIGHTARC, dep)
+(RIGHTARC, dep)
+(RIGHTARC, dobj)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, nmod:poss)
+(LEFTARC, case)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, det)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+(RIGHTARC, conj)
+(RIGHTARC, appos)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, auxpass)
+(LEFTARC, nsubjpass)
+(LEFTARC, nmod)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, nmod:poss)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, nummod)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, nummod)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, compound)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, amod)
+(LEFTARC, det)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, det)
+(LEFTARC, advmod)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, det)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, conj)
+(RIGHTARC, appos)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, det)
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+SHIFT
+(LEFTARC, case)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(RIGHTARC, appos)
+(RIGHTARC, nmod)
+(RIGHTARC, nmod)
+(RIGHTARC, appos)
+(RIGHTARC, conj)
+(RIGHTARC, appos)
+(RIGHTARC, conj)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+(LEFTARC, nummod)
+(RIGHTARC, conj)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, root)
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, nummod)
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, auxpass)
+(LEFTARC, punct)
+(LEFTARC, nmod)
+(LEFTARC, mark)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+(RIGHTARC, dobj)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+SHIFT
+SHIFT
+(LEFTARC, aux)
+(LEFTARC, nsubj)
+(LEFTARC, mark)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, compound)
+(LEFTARC, compound)
+(RIGHTARC, dobj)
+SHIFT
+SHIFT
+SHIFT
+(RIGHTARC, case)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, nmod:poss)
+SHIFT
+SHIFT
+(LEFTARC, aux)
+(LEFTARC, nsubj)
+(LEFTARC, mark)
+SHIFT
+SHIFT
+(LEFTARC, advmod)
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, amod)
+(RIGHTARC, dobj)
+(RIGHTARC, ccomp)
+(RIGHTARC, ccomp)
+(RIGHTARC, acl:relcl)
+(RIGHTARC, nmod)
+(RIGHTARC, ccomp)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, amod)
+(LEFTARC, amod)
+(LEFTARC, case)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+(LEFTARC, det)
+SHIFT
+SHIFT
+SHIFT
+(RIGHTARC, case)
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, nmod:poss)
+(LEFTARC, case)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+(RIGHTARC, compound:prt)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, nummod)
+(LEFTARC, det)
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, dobj)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, nummod)
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, nummod)
+(LEFTARC, compound)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+(RIGHTARC, advmod)
+(RIGHTARC, nmod)
+(RIGHTARC, acl:relcl)
+(RIGHTARC, nmod)
+(RIGHTARC, dobj)
+(RIGHTARC, acl:relcl)
+(RIGHTARC, nmod)
+(RIGHTARC, nmod)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, compound)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+SHIFT
+(LEFTARC, punct)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, appos)
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(RIGHTARC, dep)
+(RIGHTARC, nmod)
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+(RIGHTARC, advmod)
+SHIFT
+(RIGHTARC, nmod:tmod)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, aux)
+(LEFTARC, nsubj)
+(LEFTARC, mark)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, amod)
+(LEFTARC, det)
+SHIFT
+SHIFT
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, nmod:poss)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, nmod)
+(RIGHTARC, dobj)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(RIGHTARC, compound:prt)
+SHIFT
+SHIFT
+(LEFTARC, det)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, case)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, compound)
+(RIGHTARC, conj)
+(RIGHTARC, nmod)
+(RIGHTARC, dobj)
+(RIGHTARC, advcl)
+(RIGHTARC, ccomp)
+(RIGHTARC, parataxis)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, det)
+SHIFT
+SHIFT
+(LEFTARC, aux)
+(LEFTARC, nsubj)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, det)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, det)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, appos)
+(RIGHTARC, nmod)
+(RIGHTARC, nmod)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, compound)
+SHIFT
+SHIFT
+(LEFTARC, aux)
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, amod)
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, auxpass)
+(LEFTARC, nsubjpass)
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+SHIFT
+(RIGHTARC, case)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, amod)
+(LEFTARC, nmod:poss)
+(LEFTARC, case)
+SHIFT
+SHIFT
+(LEFTARC, case)
+SHIFT
+(RIGHTARC, nummod)
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, nmod)
+(RIGHTARC, nmod)
+(RIGHTARC, acl:relcl)
+(RIGHTARC, nmod)
+(RIGHTARC, acl)
+(RIGHTARC, nmod)
+(RIGHTARC, parataxis)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, nummod)
+(LEFTARC, det)
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+(LEFTARC, advmod)
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, amod)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, compound)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(RIGHTARC, conj)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(RIGHTARC, conj)
+(RIGHTARC, dep)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, dobj)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+(LEFTARC, auxpass)
+SHIFT
+SHIFT
+(LEFTARC, mark)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, amod)
+(RIGHTARC, dobj)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, advcl)
+(RIGHTARC, conj)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+SHIFT
+(RIGHTARC, case)
+SHIFT
+(LEFTARC, nmod:poss)
+(LEFTARC, dep)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, nmod:poss)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+(LEFTARC, dep)
+SHIFT
+SHIFT
+SHIFT
+(RIGHTARC, case)
+SHIFT
+(LEFTARC, nmod:poss)
+(LEFTARC, cop)
+(LEFTARC, nmod:tmod)
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+(LEFTARC, case)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(RIGHTARC, nummod)
+(RIGHTARC, nmod)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(RIGHTARC, amod)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+(RIGHTARC, dobj)
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, case)
+SHIFT
+(RIGHTARC, case)
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, nmod)
+(RIGHTARC, conj)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, det)
+(RIGHTARC, appos)
+(RIGHTARC, conj)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+(LEFTARC, compound)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, det)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+(RIGHTARC, conj)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, det)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, appos)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, aux)
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+(LEFTARC, nmod:poss)
+(RIGHTARC, dobj)
+SHIFT
+SHIFT
+(LEFTARC, mark)
+SHIFT
+(RIGHTARC, dobj)
+SHIFT
+SHIFT
+(LEFTARC, mark)
+SHIFT
+SHIFT
+(LEFTARC, det)
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, dobj)
+(RIGHTARC, xcomp)
+(RIGHTARC, xcomp)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+(LEFTARC, punct)
+(LEFTARC, nmod)
+(LEFTARC, punct)
+(LEFTARC, cc)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+SHIFT
+(LEFTARC, nsubj)
+(LEFTARC, mark)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+(RIGHTARC, case)
+SHIFT
+(LEFTARC, nmod:poss)
+SHIFT
+SHIFT
+(LEFTARC, mark)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, nmod:poss)
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, nmod:poss)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, xcomp)
+(RIGHTARC, acl)
+(RIGHTARC, dobj)
+(RIGHTARC, xcomp)
+(RIGHTARC, ccomp)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, amod)
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+(LEFTARC, compound)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, punct)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(RIGHTARC, appos)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, dep)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, punct)
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, punct)
+(LEFTARC, compound)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, punct)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(RIGHTARC, appos)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, dep)
+(RIGHTARC, conj)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, compound)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, punct)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(RIGHTARC, appos)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, dep)
+(RIGHTARC, conj)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, compound)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, punct)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(RIGHTARC, appos)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, dep)
+(RIGHTARC, conj)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, compound)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, punct)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(RIGHTARC, appos)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, dep)
+(RIGHTARC, conj)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, punct)
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, punct)
+(LEFTARC, compound)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, punct)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(RIGHTARC, appos)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, dep)
+(RIGHTARC, conj)
+(RIGHTARC, dobj)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, punct)
+SHIFT
+(RIGHTARC, amod)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, dep)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(RIGHTARC, appos)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, nmod)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, advmod)
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, det)
+(RIGHTARC, conj)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, aux)
+(LEFTARC, aux)
+(LEFTARC, nsubj)
+(LEFTARC, punct)
+(LEFTARC, dep)
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, case)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(RIGHTARC, appos)
+(RIGHTARC, nmod)
+(RIGHTARC, nmod)
+SHIFT
+(RIGHTARC, advmod)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, punct)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, compound)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(RIGHTARC, appos)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(RIGHTARC, appos)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, appos)
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+(RIGHTARC, dobj)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, compound)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(RIGHTARC, appos)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(RIGHTARC, appos)
+(RIGHTARC, dep)
+(RIGHTARC, dep)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, det)
+SHIFT
+(LEFTARC, nsubj)
+(LEFTARC, punct)
+(LEFTARC, nmod)
+SHIFT
+SHIFT
+(LEFTARC, det)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, nmod:poss)
+(LEFTARC, case)
+(LEFTARC, cop)
+(LEFTARC, nsubj)
+(RIGHTARC, ccomp)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, punct)
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+(LEFTARC, amod)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+SHIFT
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, case)
+SHIFT
+(RIGHTARC, case)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, amod)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, punct)
+(LEFTARC, auxpass)
+(LEFTARC, nsubjpass)
+SHIFT
+SHIFT
+(LEFTARC, mark)
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, dobj)
+(RIGHTARC, conj)
+(RIGHTARC, advcl)
+(RIGHTARC, acl:relcl)
+(RIGHTARC, conj)
+(RIGHTARC, nmod)
+(RIGHTARC, acl)
+(RIGHTARC, dobj)
+(RIGHTARC, acl)
+(RIGHTARC, nmod)
+(RIGHTARC, nmod)
+(RIGHTARC, nmod)
+(RIGHTARC, dobj)
+(RIGHTARC, ccomp)
+(RIGHTARC, conj)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+SHIFT
+SHIFT
+(LEFTARC, aux)
+(LEFTARC, nsubj)
+(LEFTARC, advmod)
+SHIFT
+SHIFT
+(LEFTARC, mark)
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+(RIGHTARC, xcomp)
+(RIGHTARC, xcomp)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+(LEFTARC, mark)
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(RIGHTARC, dobj)
+SHIFT
+SHIFT
+(LEFTARC, det)
+(RIGHTARC, nmod:tmod)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, cop)
+(LEFTARC, mark)
+SHIFT
+SHIFT
+(LEFTARC, mark)
+SHIFT
+(RIGHTARC, dobj)
+(RIGHTARC, xcomp)
+(RIGHTARC, xcomp)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, cop)
+(LEFTARC, aux)
+(LEFTARC, csubj)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, det)
+SHIFT
+(RIGHTARC, case)
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, nmod:poss)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, conj)
+(RIGHTARC, advcl)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, nummod)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, compound)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(RIGHTARC, conj)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+(LEFTARC, compound)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+(LEFTARC, cop)
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, case)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(RIGHTARC, case)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, amod)
+(LEFTARC, nmod:poss)
+(RIGHTARC, appos)
+(RIGHTARC, nmod)
+(RIGHTARC, acl:relcl)
+(RIGHTARC, conj)
+(RIGHTARC, dep)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, case)
+(LEFTARC, cop)
+(LEFTARC, aux)
+(LEFTARC, nsubj)
+(LEFTARC, punct)
+(LEFTARC, advmod)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, conj)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+SHIFT
+(LEFTARC, nsubj)
+(LEFTARC, mark)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, dobj)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, amod)
+(LEFTARC, amod)
+SHIFT
+(LEFTARC, nsubj)
+(LEFTARC, mark)
+SHIFT
+(RIGHTARC, xcomp)
+(RIGHTARC, advcl)
+(RIGHTARC, advcl)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(RIGHTARC, case)
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, nmod:poss)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, amod)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+(RIGHTARC, case)
+SHIFT
+SHIFT
+(LEFTARC, nummod)
+(LEFTARC, nmod:poss)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, amod)
+(LEFTARC, det)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, nmod:poss)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, nmod)
+(RIGHTARC, dobj)
+SHIFT
+SHIFT
+(LEFTARC, case)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, nmod)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+(LEFTARC, det)
+(RIGHTARC, iobj)
+SHIFT
+SHIFT
+(LEFTARC, dep)
+SHIFT
+SHIFT
+SHIFT
+(RIGHTARC, dep)
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, case)
+SHIFT
+SHIFT
+(LEFTARC, case)
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, nmod:poss)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, acl:relcl)
+(RIGHTARC, nmod)
+(RIGHTARC, nmod)
+(RIGHTARC, dobj)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+(LEFTARC, dep)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, nmod:poss)
+SHIFT
+(RIGHTARC, case)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, compound)
+(LEFTARC, nmod:poss)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, auxpass)
+(LEFTARC, aux)
+(LEFTARC, nsubjpass)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, conj)
+(RIGHTARC, ccomp)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+(LEFTARC, punct)
+(LEFTARC, ccomp)
+SHIFT
+(RIGHTARC, nmod:tmod)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+(RIGHTARC, conj)
+(RIGHTARC, dobj)
+SHIFT
+(LEFTARC, csubj)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, nummod)
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, nummod)
+(LEFTARC, det)
+SHIFT
+SHIFT
+(LEFTARC, case)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(RIGHTARC, conj)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(RIGHTARC, conj)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(RIGHTARC, conj)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(RIGHTARC, case)
+(RIGHTARC, conj)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(RIGHTARC, conj)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(RIGHTARC, conj)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(RIGHTARC, conj)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+(RIGHTARC, conj)
+(RIGHTARC, nmod)
+(RIGHTARC, dobj)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+(LEFTARC, compound)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(RIGHTARC, amod)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, advmod)
+(LEFTARC, nsubj)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(RIGHTARC, dobj)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, aux)
+(LEFTARC, nsubj)
+(LEFTARC, mark)
+SHIFT
+(RIGHTARC, advmod)
+SHIFT
+SHIFT
+(LEFTARC, mark)
+SHIFT
+SHIFT
+(LEFTARC, nmod:poss)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, det)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, dobj)
+(RIGHTARC, xcomp)
+(RIGHTARC, ccomp)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, amod)
+(LEFTARC, det)
+(LEFTARC, cop)
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+SHIFT
+(LEFTARC, nmod:poss)
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, nmod:poss)
+(LEFTARC, case)
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, nmod)
+(RIGHTARC, acl:relcl)
+(RIGHTARC, nmod)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+(LEFTARC, det)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, case)
+(LEFTARC, cop)
+(LEFTARC, aux)
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+(LEFTARC, case)
+SHIFT
+(RIGHTARC, nummod)
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(RIGHTARC, dep)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, auxpass)
+(LEFTARC, nsubjpass)
+(LEFTARC, advmod)
+SHIFT
+SHIFT
+(LEFTARC, case)
+SHIFT
+SHIFT
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, det)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+SHIFT
+(RIGHTARC, case)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, compound)
+(LEFTARC, nmod:poss)
+(LEFTARC, case)
+SHIFT
+SHIFT
+(LEFTARC, punct)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, appos)
+(RIGHTARC, nmod)
+(RIGHTARC, acl)
+(RIGHTARC, nmod)
+(RIGHTARC, nmod)
+(RIGHTARC, nmod)
+(RIGHTARC, acl:relcl)
+(RIGHTARC, nmod)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+(LEFTARC, compound)
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+(RIGHTARC, advmod)
+SHIFT
+SHIFT
+(LEFTARC, mark)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+SHIFT
+(LEFTARC, mark)
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(RIGHTARC, dobj)
+(RIGHTARC, acl)
+(RIGHTARC, nmod)
+(RIGHTARC, xcomp)
+(RIGHTARC, xcomp)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+(RIGHTARC, dobj)
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, conj)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+(RIGHTARC, dobj)
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, conj)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, det)
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, det)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, nummod)
+(LEFTARC, compound)
+(LEFTARC, det)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, dobj)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, det)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+(LEFTARC, case)
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, nmod)
+(RIGHTARC, acl)
+(RIGHTARC, nmod)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, aux)
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(RIGHTARC, dobj)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, aux)
+(LEFTARC, nsubj)
+SHIFT
+(RIGHTARC, dobj)
+(RIGHTARC, conj)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(RIGHTARC, case)
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, nmod:poss)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(RIGHTARC, appos)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, auxpass)
+(LEFTARC, nsubjpass)
+(LEFTARC, punct)
+(LEFTARC, punct)
+(LEFTARC, ccomp)
+(LEFTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, mark)
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, advcl)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, det)
+SHIFT
+SHIFT
+(LEFTARC, punct)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, appos)
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+(RIGHTARC, nmod:tmod)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+SHIFT
+SHIFT
+(LEFTARC, aux)
+(LEFTARC, nsubj)
+(LEFTARC, mark)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, det)
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, dobj)
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, amod)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, nmod)
+(RIGHTARC, ccomp)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, nmod:poss)
+(RIGHTARC, dobj)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, amod)
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, advmod)
+(LEFTARC, nsubj)
+(LEFTARC, advmod)
+SHIFT
+SHIFT
+(LEFTARC, compound)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, dobj)
+(RIGHTARC, acl:relcl)
+(RIGHTARC, nmod)
+(RIGHTARC, conj)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, amod)
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+SHIFT
+(LEFTARC, auxpass)
+(LEFTARC, nmod)
+SHIFT
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, amod)
+(LEFTARC, nmod:poss)
+SHIFT
+SHIFT
+(LEFTARC, aux)
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, advmod)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+(RIGHTARC, conj)
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, det)
+(RIGHTARC, dobj)
+(RIGHTARC, acl:relcl)
+(RIGHTARC, dobj)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+(LEFTARC, det)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+(RIGHTARC, conj)
+(RIGHTARC, nmod)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, auxpass)
+(LEFTARC, nsubjpass)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, case)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+(RIGHTARC, conj)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, det)
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+(RIGHTARC, dobj)
+SHIFT
+(RIGHTARC, advmod)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, punct)
+(LEFTARC, compound)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, acl:relcl)
+(RIGHTARC, conj)
+(RIGHTARC, nmod)
+(RIGHTARC, nmod)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, amod)
+(LEFTARC, amod)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, case)
+(LEFTARC, cop)
+(LEFTARC, aux)
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, det)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+(LEFTARC, mark)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+(LEFTARC, advmod)
+(LEFTARC, mark)
+SHIFT
+SHIFT
+(RIGHTARC, case)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, nmod:poss)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(RIGHTARC, conj)
+(RIGHTARC, dobj)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, amod)
+(LEFTARC, nmod:poss)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, advcl)
+(RIGHTARC, advcl)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, neg)
+(LEFTARC, aux)
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+(LEFTARC, det)
+SHIFT
+SHIFT
+(LEFTARC, punct)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, appos)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, advmod)
+(LEFTARC, cop)
+(LEFTARC, aux)
+(LEFTARC, aux)
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, ccomp)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, punct)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, dep)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, neg)
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, conj)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+(LEFTARC, punct)
+(LEFTARC, punct)
+(LEFTARC, ccomp)
+(LEFTARC, punct)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, aux)
+(LEFTARC, nsubj)
+(LEFTARC, mark)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, det)
+(RIGHTARC, iobj)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, det)
+(RIGHTARC, dobj)
+(RIGHTARC, advcl)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, det)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, advmod)
+(LEFTARC, aux)
+(LEFTARC, nsubj)
+SHIFT
+(RIGHTARC, compound:prt)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, compound)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, appos)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+(LEFTARC, mark)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(RIGHTARC, dobj)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+SHIFT
+(LEFTARC, mark)
+SHIFT
+(RIGHTARC, dobj)
+(RIGHTARC, acl)
+(RIGHTARC, nmod)
+(RIGHTARC, xcomp)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+(LEFTARC, aux)
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, case)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, det)
+SHIFT
+SHIFT
+(LEFTARC, case)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, mark)
+SHIFT
+SHIFT
+(LEFTARC, mark)
+SHIFT
+(RIGHTARC, dobj)
+(RIGHTARC, xcomp)
+(RIGHTARC, advcl)
+(RIGHTARC, acl)
+(RIGHTARC, appos)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, nmod)
+(RIGHTARC, appos)
+(RIGHTARC, nmod)
+(RIGHTARC, dobj)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, nummod)
+(LEFTARC, amod)
+(LEFTARC, det)
+(LEFTARC, cop)
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+(LEFTARC, mark)
+SHIFT
+SHIFT
+(LEFTARC, mark)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, advmod)
+(RIGHTARC, dobj)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, nmod:poss)
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, punct)
+(LEFTARC, case)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, nmod)
+(RIGHTARC, xcomp)
+(RIGHTARC, advcl)
+(RIGHTARC, dep)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+(LEFTARC, case)
+SHIFT
+SHIFT
+(LEFTARC, case)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+(LEFTARC, advmod)
+SHIFT
+SHIFT
+(LEFTARC, advmod)
+SHIFT
+(LEFTARC, nummod)
+(RIGHTARC, dobj)
+(RIGHTARC, acl:relcl)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, advmod)
+(LEFTARC, nsubj)
+(LEFTARC, punct)
+(LEFTARC, nmod)
+SHIFT
+SHIFT
+(LEFTARC, nummod)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+(LEFTARC, advmod)
+SHIFT
+(LEFTARC, nummod)
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, conj)
+(RIGHTARC, dobj)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+(LEFTARC, det)
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(RIGHTARC, conj)
+SHIFT
+SHIFT
+(LEFTARC, auxpass)
+(LEFTARC, nsubjpass)
+(LEFTARC, mark)
+SHIFT
+SHIFT
+(LEFTARC, mark)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, cop)
+(LEFTARC, nsubj)
+(LEFTARC, mark)
+(LEFTARC, dep)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, advmod)
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, det)
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+(LEFTARC, nsubj)
+(LEFTARC, mark)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, det)
+(LEFTARC, cop)
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, ccomp)
+(RIGHTARC, conj)
+(RIGHTARC, advcl)
+(RIGHTARC, xcomp)
+(RIGHTARC, ccomp)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, det)
+(LEFTARC, cop)
+(LEFTARC, nsubj)
+(LEFTARC, mark)
+(RIGHTARC, ccomp)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, punct)
+(LEFTARC, punct)
+(LEFTARC, ccomp)
+(LEFTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, compound)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, amod)
+(LEFTARC, case)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(RIGHTARC, conj)
+(RIGHTARC, nmod)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, det)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, det)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, det)
+(RIGHTARC, dobj)
+(RIGHTARC, acl:relcl)
+(RIGHTARC, conj)
+(RIGHTARC, appos)
+(RIGHTARC, nsubj)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+(RIGHTARC, mwe)
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, case)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(RIGHTARC, conj)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(RIGHTARC, conj)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(RIGHTARC, conj)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(RIGHTARC, conj)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(RIGHTARC, conj)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+(RIGHTARC, conj)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+(LEFTARC, punct)
+(LEFTARC, nmod)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, auxpass)
+(LEFTARC, nsubjpass)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, nmod:poss)
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, nummod)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(RIGHTARC, appos)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, det)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(RIGHTARC, appos)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, nummod)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(RIGHTARC, conj)
+(RIGHTARC, appos)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, case)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(RIGHTARC, appos)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, case)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(RIGHTARC, appos)
+(RIGHTARC, nmod)
+(RIGHTARC, conj)
+(RIGHTARC, nmod)
+(RIGHTARC, conj)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, nummod)
+(RIGHTARC, conj)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+(LEFTARC, nummod)
+(RIGHTARC, conj)
+(RIGHTARC, dep)
+(RIGHTARC, nmod)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, cop)
+(LEFTARC, aux)
+(LEFTARC, expl)
+(LEFTARC, mark)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+SHIFT
+(RIGHTARC, case)
+SHIFT
+(LEFTARC, nmod:poss)
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+(LEFTARC, punct)
+(LEFTARC, advcl)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, advmod)
+SHIFT
+(LEFTARC, advmod)
+(LEFTARC, aux)
+(LEFTARC, nsubj)
+(LEFTARC, mark)
+SHIFT
+SHIFT
+(LEFTARC, det)
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, case)
+SHIFT
+SHIFT
+(LEFTARC, det)
+(RIGHTARC, nmod:tmod)
+SHIFT
+SHIFT
+(LEFTARC, mark)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, det)
+(RIGHTARC, dobj)
+(RIGHTARC, acl)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, det)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(RIGHTARC, nmod:tmod)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, root)
+(RIGHTARC, root)
+(RIGHTARC, punct)
+(RIGHTARC, root)
+(RIGHTARC, root)
+(RIGHTARC, punct)
+(RIGHTARC, root)
+(RIGHTARC, punct)
+(RIGHTARC, dobj)
+(RIGHTARC, ccomp)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, amod)
+(LEFTARC, amod)
+(LEFTARC, compound)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, amod)
+(LEFTARC, compound)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, amod)
+(RIGHTARC, conj)
+(RIGHTARC, dobj)
+(RIGHTARC, xcomp)
+(RIGHTARC, acl)
+(RIGHTARC, nsubj)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, punct)
+(LEFTARC, compound)
+(LEFTARC, punct)
+(LEFTARC, det)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+SHIFT
+(RIGHTARC, case)
+(RIGHTARC, conj)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, punct)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, appos)
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, nmod:poss)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+SHIFT
+(RIGHTARC, case)
+SHIFT
+(LEFTARC, nmod:poss)
+SHIFT
+SHIFT
+(LEFTARC, aux)
+(LEFTARC, nsubj)
+(LEFTARC, mark)
+(RIGHTARC, ccomp)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+(LEFTARC, punct)
+(LEFTARC, punct)
+(LEFTARC, nsubj)
+(LEFTARC, punct)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+(LEFTARC, amod)
+SHIFT
+SHIFT
+(LEFTARC, advmod)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, auxpass)
+(LEFTARC, nsubjpass)
+(LEFTARC, advmod)
+(RIGHTARC, conj)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, amod)
+(LEFTARC, compound)
+(RIGHTARC, conj)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(RIGHTARC, dep)
+(RIGHTARC, nmod:tmod)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, conj)
+SHIFT
+(LEFTARC, nmod)
+(LEFTARC, mark)
+SHIFT
+SHIFT
+(LEFTARC, det)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, nsubj)
+(RIGHTARC, ccomp)
+(RIGHTARC, acl:relcl)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+(LEFTARC, aux)
+(LEFTARC, advmod)
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, nmod:poss)
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, cop)
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, nmod:poss)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, acl:relcl)
+(RIGHTARC, nmod)
+(RIGHTARC, ccomp)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+(LEFTARC, det)
+(RIGHTARC, dobj)
+SHIFT
+(RIGHTARC, nmod:tmod)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+SHIFT
+(LEFTARC, nsubj)
+(LEFTARC, mark)
+SHIFT
+SHIFT
+(LEFTARC, det)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, amod)
+(LEFTARC, det)
+SHIFT
+(RIGHTARC, case)
+SHIFT
+(LEFTARC, nmod:poss)
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, nummod)
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+(LEFTARC, det)
+SHIFT
+(RIGHTARC, case)
+SHIFT
+(LEFTARC, nmod:poss)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+SHIFT
+(LEFTARC, case)
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, nmod)
+(RIGHTARC, nmod)
+(RIGHTARC, conj)
+(RIGHTARC, nmod)
+(RIGHTARC, nmod)
+(RIGHTARC, dobj)
+(RIGHTARC, advcl)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, amod)
+(LEFTARC, det)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+(LEFTARC, compound)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+SHIFT
+(LEFTARC, punct)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, appos)
+(RIGHTARC, nmod)
+(RIGHTARC, appos)
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, acl)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, det)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, det)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+(LEFTARC, punct)
+(LEFTARC, nsubj)
+(LEFTARC, mark)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, cop)
+(LEFTARC, nsubj)
+(LEFTARC, mark)
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(RIGHTARC, dobj)
+(RIGHTARC, conj)
+(RIGHTARC, acl:relcl)
+(RIGHTARC, ccomp)
+(RIGHTARC, ccomp)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+(RIGHTARC, conj)
+SHIFT
+(LEFTARC, nummod)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, nummod)
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, det)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, nmod)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, nmod)
+(RIGHTARC, nmod)
+(RIGHTARC, advmod)
+(RIGHTARC, dobj)
+(RIGHTARC, ccomp)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+(LEFTARC, compound)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(RIGHTARC, case)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, nmod:poss)
+(RIGHTARC, appos)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, expl)
+(LEFTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+SHIFT
+SHIFT
+(LEFTARC, cop)
+(LEFTARC, nsubj)
+(LEFTARC, mark)
+SHIFT
+SHIFT
+(RIGHTARC, mwe)
+SHIFT
+(LEFTARC, advmod)
+SHIFT
+(LEFTARC, compound)
+(RIGHTARC, dobj)
+(RIGHTARC, ccomp)
+(RIGHTARC, acl:relcl)
+(RIGHTARC, nsubj)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+SHIFT
+(LEFTARC, nsubj)
+(LEFTARC, dep)
+(LEFTARC, dobj)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+SHIFT
+(RIGHTARC, case)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, amod)
+(LEFTARC, nmod:poss)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, ccomp)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, auxpass)
+(LEFTARC, nsubjpass)
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(RIGHTARC, nummod)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(RIGHTARC, nummod)
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, det)
+(LEFTARC, case)
+(LEFTARC, advmod)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, det)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+(LEFTARC, advmod)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, conj)
+(RIGHTARC, nmod)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, amod)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(RIGHTARC, conj)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(RIGHTARC, conj)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(RIGHTARC, conj)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(RIGHTARC, conj)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, amod)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(RIGHTARC, conj)
+(RIGHTARC, conj)
+SHIFT
+SHIFT
+(LEFTARC, aux)
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+(LEFTARC, mark)
+SHIFT
+SHIFT
+(LEFTARC, det)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+(RIGHTARC, conj)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+(RIGHTARC, nummod)
+(RIGHTARC, nmod:tmod)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, nmod:poss)
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, det)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, nmod)
+(RIGHTARC, acl:relcl)
+(RIGHTARC, nmod)
+(RIGHTARC, dobj)
+(RIGHTARC, xcomp)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+SHIFT
+(LEFTARC, nsubj)
+(LEFTARC, mark)
+SHIFT
+(RIGHTARC, advmod)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, compound)
+SHIFT
+SHIFT
+(LEFTARC, aux)
+(LEFTARC, nsubj)
+(LEFTARC, punct)
+(LEFTARC, advcl)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, aux)
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+(LEFTARC, mark)
+SHIFT
+SHIFT
+(LEFTARC, compound)
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, nmod)
+(RIGHTARC, xcomp)
+(RIGHTARC, xcomp)
+(RIGHTARC, ccomp)
+SHIFT
+SHIFT
+(LEFTARC, aux)
+SHIFT
+SHIFT
+(LEFTARC, advmod)
+(RIGHTARC, advmod)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, aux)
+(LEFTARC, nsubj)
+(LEFTARC, nmod)
+SHIFT
+SHIFT
+(LEFTARC, mark)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, det)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, punct)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, dobj)
+(RIGHTARC, xcomp)
+(RIGHTARC, ccomp)
+(RIGHTARC, ccomp)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, nmod:poss)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, aux)
+(LEFTARC, nsubj)
+(LEFTARC, punct)
+(LEFTARC, nmod)
+SHIFT
+SHIFT
+(LEFTARC, det)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, nmod:poss)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, nmod)
+(RIGHTARC, dobj)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(RIGHTARC, dobj)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+(RIGHTARC, dobj)
+SHIFT
+SHIFT
+(LEFTARC, case)
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+(LEFTARC, nmod:poss)
+(RIGHTARC, dobj)
+(RIGHTARC, ccomp)
+(RIGHTARC, acl:relcl)
+(RIGHTARC, nmod)
+(RIGHTARC, conj)
+(RIGHTARC, dep)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+(LEFTARC, det)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, case)
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(RIGHTARC, conj)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, amod)
+(RIGHTARC, conj)
+(RIGHTARC, nmod)
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+SHIFT
+(RIGHTARC, case)
+SHIFT
+(LEFTARC, nmod:poss)
+SHIFT
+(RIGHTARC, case)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, nmod:poss)
+(LEFTARC, case)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(RIGHTARC, dobj)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(RIGHTARC, compound:prt)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, dobj)
+(RIGHTARC, conj)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, amod)
+(LEFTARC, det)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, dobj)
+(RIGHTARC, conj)
+(RIGHTARC, ccomp)
+(RIGHTARC, acl:relcl)
+(RIGHTARC, nmod)
+(RIGHTARC, dobj)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, nummod)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, det)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, case)
+(RIGHTARC, conj)
+(RIGHTARC, nmod)
+(RIGHTARC, dep)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, case)
+(LEFTARC, dep)
+(LEFTARC, punct)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, dep)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(RIGHTARC, appos)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, compound)
+(LEFTARC, det)
+(LEFTARC, cop)
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, det)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, nmod)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+(LEFTARC, mark)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, nummod)
+(LEFTARC, nmod:poss)
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, nsubj)
+(RIGHTARC, xcomp)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+(RIGHTARC, dobj)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, nmod:poss)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, conj)
+(RIGHTARC, xcomp)
+(RIGHTARC, ccomp)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, auxpass)
+(LEFTARC, nsubjpass)
+(LEFTARC, advmod)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, amod)
+(LEFTARC, case)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, det)
+(RIGHTARC, appos)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+(RIGHTARC, dobj)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, nmod:poss)
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+(LEFTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, nmod:poss)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(RIGHTARC, mwe)
+SHIFT
+(RIGHTARC, mwe)
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, conj)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+(LEFTARC, mark)
+SHIFT
+SHIFT
+(LEFTARC, det)
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, dobj)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+SHIFT
+(RIGHTARC, case)
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, nmod:poss)
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, amod)
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, nmod)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+(LEFTARC, nmod:poss)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, case)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, det)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, appos)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, det)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, conj)
+(RIGHTARC, nmod)
+(RIGHTARC, nmod)
+(RIGHTARC, xcomp)
+(RIGHTARC, ccomp)
+(RIGHTARC, conj)
+(RIGHTARC, dep)
+(RIGHTARC, nmod)
+(RIGHTARC, acl:relcl)
+(RIGHTARC, nmod)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, advmod)
+(LEFTARC, nsubj)
+(LEFTARC, punct)
+(LEFTARC, nmod)
+(LEFTARC, punct)
+SHIFT
+(RIGHTARC, compound:prt)
+SHIFT
+(RIGHTARC, dobj)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, auxpass)
+(LEFTARC, nsubjpass)
+(LEFTARC, advmod)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, amod)
+(LEFTARC, det)
+(LEFTARC, cop)
+(LEFTARC, mark)
+(RIGHTARC, advcl)
+(RIGHTARC, advcl)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, aux)
+(LEFTARC, aux)
+(LEFTARC, nsubj)
+(LEFTARC, advcl)
+SHIFT
+(RIGHTARC, iobj)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, amod)
+(LEFTARC, det)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, advmod)
+(LEFTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, amod)
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, dobj)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, dep)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+(LEFTARC, dobj)
+(RIGHTARC, acl:relcl)
+(RIGHTARC, nmod)
+(RIGHTARC, dobj)
+(RIGHTARC, advcl)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+(LEFTARC, mark)
+SHIFT
+(RIGHTARC, dobj)
+(RIGHTARC, xcomp)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+(LEFTARC, mark)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, expl)
+(LEFTARC, mark)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, det)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+(LEFTARC, det)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, conj)
+(RIGHTARC, nmod)
+(RIGHTARC, nsubj)
+(RIGHTARC, ccomp)
+(RIGHTARC, advcl)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+(LEFTARC, punct)
+(LEFTARC, advmod)
+(LEFTARC, punct)
+(LEFTARC, advmod)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, advmod)
+(LEFTARC, nsubj)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, advmod)
+(LEFTARC, nsubj)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(RIGHTARC, dobj)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, nmod)
+(RIGHTARC, amod)
+(RIGHTARC, nmod)
+(RIGHTARC, acl:relcl)
+(RIGHTARC, dep)
+(RIGHTARC, nsubj)
+(RIGHTARC, conj)
+(RIGHTARC, dep)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, det)
+SHIFT
+SHIFT
+(LEFTARC, aux)
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, amod)
+(LEFTARC, det)
+SHIFT
+(LEFTARC, nsubj)
+(LEFTARC, mark)
+SHIFT
+SHIFT
+(LEFTARC, mark)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, det)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, det)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, dobj)
+(RIGHTARC, xcomp)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+(LEFTARC, advmod)
+SHIFT
+(RIGHTARC, dobj)
+SHIFT
+SHIFT
+(LEFTARC, mark)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, amod)
+(LEFTARC, det)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, acl)
+(RIGHTARC, nmod)
+(RIGHTARC, xcomp)
+(RIGHTARC, advcl)
+(RIGHTARC, ccomp)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, det)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, det)
+SHIFT
+SHIFT
+(LEFTARC, aux)
+(LEFTARC, nsubj)
+(LEFTARC, mark)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, mark)
+(LEFTARC, neg)
+SHIFT
+SHIFT
+(LEFTARC, nmod:poss)
+(RIGHTARC, dobj)
+(RIGHTARC, xcomp)
+(RIGHTARC, ccomp)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, aux)
+(LEFTARC, nsubj)
+(LEFTARC, punct)
+(LEFTARC, dep)
+SHIFT
+(RIGHTARC, dobj)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, nmod)
+(RIGHTARC, nmod)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+(LEFTARC, det)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, case)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(RIGHTARC, conj)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, det)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, conj)
+(RIGHTARC, conj)
+(RIGHTARC, nmod)
+(RIGHTARC, acl)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, advmod)
+(LEFTARC, aux)
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+(LEFTARC, amod)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, aux)
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+(LEFTARC, det)
+(RIGHTARC, dobj)
+(RIGHTARC, acl:relcl)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, punct)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(LEFTARC, nsubj)
+(LEFTARC, mark)
+SHIFT
+SHIFT
+(LEFTARC, mark)
+SHIFT
+(RIGHTARC, compound:prt)
+(RIGHTARC, xcomp)
+(RIGHTARC, dep)
+(RIGHTARC, dobj)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, cop)
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, case)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, det)
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, nummod)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, det)
+(RIGHTARC, dep)
+(RIGHTARC, nmod)
+(RIGHTARC, acl:relcl)
+(RIGHTARC, appos)
+(RIGHTARC, nmod)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, det)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, appos)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(LEFTARC, nsubj)
+(LEFTARC, punct)
+(LEFTARC, nmod)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, aux)
+(LEFTARC, nsubj)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, aux)
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+(LEFTARC, nmod:poss)
+(RIGHTARC, dobj)
+SHIFT
+(RIGHTARC, compound:prt)
+SHIFT
+SHIFT
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, nmod:poss)
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, nmod)
+(RIGHTARC, nmod)
+(RIGHTARC, acl:relcl)
+(RIGHTARC, dobj)
+(RIGHTARC, ccomp)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+(LEFTARC, compound)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(RIGHTARC, dep)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, amod)
+(LEFTARC, det)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, det)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, nmod)
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+(LEFTARC, nummod)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+(LEFTARC, nummod)
+(RIGHTARC, conj)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, dobj)
+SHIFT
+SHIFT
+(LEFTARC, mark)
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, advcl)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+SHIFT
+SHIFT
+(LEFTARC, auxpass)
+(LEFTARC, nsubjpass)
+(LEFTARC, mark)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, neg)
+(LEFTARC, aux)
+(RIGHTARC, conj)
+(RIGHTARC, ccomp)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, aux)
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+(LEFTARC, mark)
+SHIFT
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+(RIGHTARC, conj)
+(RIGHTARC, dobj)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, xcomp)
+(RIGHTARC, conj)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+(RIGHTARC, conj)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, case)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, det)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, det)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, appos)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(RIGHTARC, appos)
+(RIGHTARC, nmod)
+(RIGHTARC, acl)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, amod)
+(LEFTARC, det)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+SHIFT
+SHIFT
+(LEFTARC, case)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(RIGHTARC, conj)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(RIGHTARC, conj)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, advmod)
+SHIFT
+SHIFT
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+SHIFT
+(RIGHTARC, case)
+SHIFT
+(LEFTARC, nmod:poss)
+(LEFTARC, case)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(RIGHTARC, conj)
+(RIGHTARC, nmod)
+(RIGHTARC, nmod)
+(RIGHTARC, nmod)
+(RIGHTARC, appos)
+(RIGHTARC, nmod)
+(RIGHTARC, dobj)
+(RIGHTARC, acl)
+(RIGHTARC, nmod)
+(RIGHTARC, acl)
+(RIGHTARC, dobj)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, case)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, compound)
+(RIGHTARC, conj)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, advmod)
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+(LEFTARC, nummod)
+SHIFT
+(LEFTARC, nmod:npmod)
+(RIGHTARC, advmod)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+(LEFTARC, nmod:poss)
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+(LEFTARC, mark)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, det)
+(RIGHTARC, dobj)
+(RIGHTARC, xcomp)
+(RIGHTARC, conj)
+(RIGHTARC, acl:relcl)
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+(LEFTARC, neg)
+SHIFT
+SHIFT
+(LEFTARC, det)
+(RIGHTARC, dep)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, neg)
+(LEFTARC, aux)
+(LEFTARC, nsubj)
+(LEFTARC, punct)
+(LEFTARC, dep)
+SHIFT
+SHIFT
+(LEFTARC, det)
+(RIGHTARC, dobj)
+(RIGHTARC, ccomp)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, neg)
+(LEFTARC, cop)
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, nmod)
+SHIFT
+(LEFTARC, csubj)
+(LEFTARC, punct)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, compound)
+SHIFT
+(LEFTARC, nsubj)
+(LEFTARC, dep)
+SHIFT
+(RIGHTARC, dobj)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+(LEFTARC, compound)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, advmod)
+(RIGHTARC, xcomp)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+SHIFT
+(RIGHTARC, case)
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, nmod:poss)
+SHIFT
+SHIFT
+(LEFTARC, aux)
+(LEFTARC, nsubj)
+(LEFTARC, mark)
+SHIFT
+(RIGHTARC, advmod)
+SHIFT
+SHIFT
+(LEFTARC, mark)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, amod)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, xcomp)
+(RIGHTARC, conj)
+(RIGHTARC, ccomp)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(RIGHTARC, dobj)
+(RIGHTARC, acl:relcl)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, nmod:poss)
+(LEFTARC, case)
+SHIFT
+SHIFT
+(LEFTARC, case)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(RIGHTARC, appos)
+(RIGHTARC, nmod)
+(RIGHTARC, nmod)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(RIGHTARC, mwe)
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, auxpass)
+(LEFTARC, nsubjpass)
+SHIFT
+SHIFT
+(LEFTARC, case)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, amod)
+(LEFTARC, det)
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, acl:relcl)
+(RIGHTARC, appos)
+(RIGHTARC, nmod)
+(RIGHTARC, acl:relcl)
+(RIGHTARC, nmod)
+(RIGHTARC, nmod)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, auxpass)
+(LEFTARC, nsubjpass)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+(LEFTARC, punct)
+(LEFTARC, ccomp)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, amod)
+(LEFTARC, det)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, mark)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, amod)
+SHIFT
+(LEFTARC, nsubj)
+(LEFTARC, mark)
+(RIGHTARC, ccomp)
+(RIGHTARC, acl)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, aux)
+(LEFTARC, nsubj)
+(RIGHTARC, acl:relcl)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, cop)
+(LEFTARC, nsubj)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, advmod)
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, case)
+(LEFTARC, cop)
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, det)
+(RIGHTARC, dobj)
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, acl)
+(RIGHTARC, ccomp)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, neg)
+(LEFTARC, nsubj)
+(LEFTARC, aux)
+(LEFTARC, advmod)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, det)
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, dobj)
+SHIFT
+(RIGHTARC, compound:prt)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, nummod)
+(LEFTARC, cop)
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, nummod)
+(LEFTARC, det)
+(LEFTARC, neg)
+(RIGHTARC, dep)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, advmod)
+(LEFTARC, nsubj)
+(RIGHTARC, xcomp)
+(RIGHTARC, conj)
+(RIGHTARC, ccomp)
+(RIGHTARC, dep)
+(RIGHTARC, parataxis)
+(RIGHTARC, parataxis)
+(RIGHTARC, parataxis)
+(RIGHTARC, acl:relcl)
+(RIGHTARC, dep)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, det)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, cop)
+(LEFTARC, aux)
+(LEFTARC, nsubj)
+(LEFTARC, mark)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+SHIFT
+SHIFT
+SHIFT
+(RIGHTARC, case)
+SHIFT
+(LEFTARC, nmod:poss)
+(LEFTARC, case)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, amod)
+(RIGHTARC, appos)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, compound)
+(RIGHTARC, conj)
+(RIGHTARC, nmod)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, root)
+(RIGHTARC, punct)
+(RIGHTARC, acl)
+(RIGHTARC, dobj)
+(RIGHTARC, xcomp)
+(RIGHTARC, acl)
+(RIGHTARC, root)
+(RIGHTARC, acl)
+(RIGHTARC, dep)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, advmod)
+(LEFTARC, nsubj)
+(LEFTARC, mark)
+SHIFT
+SHIFT
+(LEFTARC, det)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, compound)
+(LEFTARC, nummod)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, dobj)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, advmod)
+(LEFTARC, neg)
+(LEFTARC, aux)
+(LEFTARC, nsubj)
+(LEFTARC, punct)
+(LEFTARC, advcl)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, punct)
+(LEFTARC, det)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, dobj)
+SHIFT
+SHIFT
+(LEFTARC, case)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, aux)
+(LEFTARC, nsubj)
+(LEFTARC, advmod)
+SHIFT
+(RIGHTARC, compound:prt)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, det)
+(RIGHTARC, dobj)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, nmod)
+(RIGHTARC, acl:relcl)
+(RIGHTARC, nmod)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+(RIGHTARC, mwe)
+SHIFT
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, nmod:poss)
+(RIGHTARC, conj)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, advmod)
+(LEFTARC, aux)
+(LEFTARC, nsubj)
+(LEFTARC, mark)
+SHIFT
+SHIFT
+(LEFTARC, mark)
+SHIFT
+SHIFT
+(LEFTARC, det)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, case)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+(RIGHTARC, conj)
+(RIGHTARC, nmod)
+(RIGHTARC, nmod)
+(RIGHTARC, dobj)
+(RIGHTARC, xcomp)
+(RIGHTARC, advcl)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, punct)
+(LEFTARC, ccomp)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, det)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+(RIGHTARC, conj)
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+(RIGHTARC, compound:prt)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, det)
+(RIGHTARC, dobj)
+(RIGHTARC, acl)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, amod)
+(LEFTARC, punct)
+(LEFTARC, det)
+(LEFTARC, cop)
+(LEFTARC, aux)
+(LEFTARC, nsubj)
+(LEFTARC, mark)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(RIGHTARC, mwe)
+SHIFT
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, acl)
+(RIGHTARC, nmod)
+(RIGHTARC, ccomp)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, nummod)
+(LEFTARC, nmod:poss)
+(LEFTARC, cop)
+(LEFTARC, nsubj)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+(LEFTARC, advmod)
+SHIFT
+SHIFT
+(RIGHTARC, dobj)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, advmod)
+(LEFTARC, nsubj)
+SHIFT
+(RIGHTARC, nmod)
+(RIGHTARC, acl:relcl)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, root)
+(RIGHTARC, punct)
+(RIGHTARC, dep)
+(RIGHTARC, xcomp)
+(RIGHTARC, acl:relcl)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, punct)
+(LEFTARC, compound)
+(LEFTARC, punct)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+SHIFT
+SHIFT
+(LEFTARC, auxpass)
+(LEFTARC, nsubjpass)
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(RIGHTARC, xcomp)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, det)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, conj)
+(RIGHTARC, acl:relcl)
+(RIGHTARC, appos)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, amod)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, compound)
+SHIFT
+SHIFT
+(LEFTARC, cop)
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+(LEFTARC, mark)
+SHIFT
+SHIFT
+(LEFTARC, det)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, dobj)
+SHIFT
+SHIFT
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, nmod)
+(RIGHTARC, xcomp)
+(RIGHTARC, acl:relcl)
+(RIGHTARC, xcomp)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, det)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+SHIFT
+(RIGHTARC, case)
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, nmod:poss)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+(LEFTARC, nsubj)
+(LEFTARC, dep)
+(RIGHTARC, dep)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(RIGHTARC, dobj)
+(RIGHTARC, acl:relcl)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, acl)
+(RIGHTARC, nmod)
+(RIGHTARC, dobj)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+(LEFTARC, compound)
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, det)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, acl)
+(RIGHTARC, nmod)
+(RIGHTARC, dobj)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+(LEFTARC, nsubj)
+(LEFTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, det)
+(LEFTARC, punct)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, cop)
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+(LEFTARC, det)
+(RIGHTARC, dobj)
+(RIGHTARC, acl:relcl)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+(LEFTARC, punct)
+(LEFTARC, punct)
+(LEFTARC, ccomp)
+SHIFT
+(RIGHTARC, dobj)
+(RIGHTARC, ccomp)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+(LEFTARC, nmod:poss)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+(RIGHTARC, dobj)
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, acl:relcl)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, aux)
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+(LEFTARC, nmod:poss)
+(RIGHTARC, dobj)
+SHIFT
+SHIFT
+(LEFTARC, case)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, det)
+SHIFT
+(LEFTARC, nsubj)
+(RIGHTARC, acl:relcl)
+(RIGHTARC, nmod)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, amod)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, dobj)
+(RIGHTARC, acl:relcl)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, ROOT)
+
+SHIFT
+SHIFT
+(LEFTARC, compound)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+SHIFT
+(RIGHTARC, dobj)
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, nsubj)
+(LEFTARC, advmod)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, amod)
+(LEFTARC, det)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, compound)
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, compound)
+(LEFTARC, det)
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, nmod)
+(RIGHTARC, amod)
+(RIGHTARC, dobj)
+SHIFT
+(RIGHTARC, cc)
+SHIFT
+SHIFT
+(LEFTARC, advmod)
+SHIFT
+SHIFT
+(LEFTARC, nummod)
+(RIGHTARC, dobj)
+SHIFT
+SHIFT
+SHIFT
+(LEFTARC, det)
+(LEFTARC, case)
+SHIFT
+SHIFT
+(LEFTARC, case)
+(RIGHTARC, nmod)
+(RIGHTARC, nmod)
+(RIGHTARC, conj)
+(RIGHTARC, advcl)
+(RIGHTARC, acl:relcl)
+SHIFT
+(RIGHTARC, punct)
+SHIFT
+SHIFT
+(LEFTARC, aux)
+(LEFTARC, nsubj)
+SHIFT
+(RIGHTARC, punct)
+(RIGHTARC, ROOT)
+

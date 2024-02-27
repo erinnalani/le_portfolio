@@ -1,0 +1,71 @@
+## CFG for Semantic Analysis
+
+% start S
+
+S[SEM = <?subj(?vp)>] -> NP[SEM=?subj] VP[SEM=?vp]
+
+# Verbs
+VP[SEM=?v] -> STV[SEM=?v]
+# VP[SEM=<?v(?np)>] -> STV[SEM=?v] NP[SEM=?np]
+VP[SEM=?v] -> VCONJV[SEM=?v]
+VP[SEM=?v] -> CONJV[SEM=?v]
+VP[SEM=<?v(?np)>] -> TV[SEM=?v] NP[SEM=?np]
+VP[SEM=<?not(?v)>] -> AUX NEG[SEM=?not] VP[SEM=?v]
+
+# Conjunctions
+VCONJV[SEM=<?v2(?v1)>] -> VP[SEM=?v1] CONJV[SEM=?v2]
+CONJV[SEM=<?conj(?v)>] -> CONJ[SEM=?conj] VP[SEM=?v]
+NCONJN[SEM=<?n2(?n1)>] -> N[SEM=?n1] CONJN[SEM=?n2]
+# NCONJN[SEM=<?n2(?n1)>] -> PropN[SEM=?n1] CONJN[SEM=?n2]
+CONJN[SEM=<?conj(?n)>] -> CONJ[SEM=?conj] N[SEM=?n]
+
+# Nouns
+NP[SEM=<?det(?n)>] -> Det[SEM=?det] N[SEM=?n]
+# NP[SEM=?np] -> PropN[SEM=?np]
+NP[SEM=<?n>] -> NCONJN[SEM=?n]
+NP[SEM=<?det(?n)>] -> Det[SEM=?det] NCONJN[SEM=?n]
+NP[SEM=<?n>] -> N[SEM=?n]
+
+
+
+
+############ Lexical Rules ###############
+AUX -> 'does'
+
+CONJ[SEM= <\Q P.(\x (P(x) | Q(x)))>] -> 'or'
+
+Det[NUM=sg,SEM= <\Q P.exists x.(Q(x) & P(x))>] -> 'a' | 'an'
+Det[NUM=sg,SEM= <\P Q.all x.(P(x) -> Q(x))>] -> 'every'
+Det[NUM=pl,SEM= <\P Q.all x.(P(x) -> Q(x))>] -> 'all'
+Det[SEM = <\Q P.-exists x.(Q(x) & P(x))>] -> 'no'
+
+
+N[NUM=sg,SEM = <\x.student(x)>] -> 'student'
+N[NUM=pl,SEM = <\x.student(x)>] -> 'students'
+N[NUM=sg,SEM = <\x.sandwich(x)>] -> 'sandwich'
+N[NUM=sg,SEM = <\x.essay(x)>] -> 'essay'
+N[NUM=sg,SEM = <\x.soda(x)>] -> 'soda'
+N[NUM=sg,SEM = <\x.bagel(x)>] -> 'bagel'
+N[SEM = <\Q.-exists x.(Q(x))>] -> 'nobody'
+N[NUM=sg,SEM = <\x.person(x)>] -> 'person'
+
+NEG[SEM=<\Q.(\x -Q(x))>] -> 'not'
+
+# PropN[SEM = <\P.P(John)>] -> 'John'
+# PropN[SEM = <\P.P(Mary)>] -> 'Mary'
+# PropN[SEM = <\P.P(Jack)>] -> 'Jack'
+
+N[SEM = <\P.P(John)>] -> 'John'
+N[SEM = <\P.P(Mary)>] -> 'Mary'
+N[SEM = <\P.P(Jack)>] -> 'Jack'
+
+ATV[SEM = <\x.exists e.(eat(e) & eater(e,x))>] -> 'eat' | 'eats'
+
+STV[NUM=sg,SEM = <\x.exists e.(eat(e) & eater(e,x))>] -> 'eats'
+STV[NUM=pl,SEM = <\x.exists e.(eat(e) & eater(e,x))>] -> 'eat'
+STV[NUM=sg,SEM = <\x.exists e.(drink(e) & drinker(e,x))>] -> 'drinks'
+STV[NUM=pl,SEM = <\x.exists e.(drink(e) & drinker(e,x))>] -> 'drink'
+
+TV[SEM=<\P \y.P(\x. exists e.(write(e) & writer(e,y) & writtenThing(e,x)))>] -> 'writes'
+TV[SEM = <\P \y.P(\x. exists e.(drink(e) & drinker(e,y) & drinkThing(e,x)))>] -> 'drinks'
+TV[SEM = <\P \y.P(\x. exists e.(eat(e) & eater(e,y) & eatenThing(e,x)))>] -> 'eats'

@@ -1,0 +1,160 @@
+Scientists rescued a mouse immune system.
+(S
+  (NP Scientists)
+  (_X_5
+    (VP
+      (VBD rescued)
+      (NP (Det a) (NP (NP mouse) (NP (ADJP immune) (NP system)))))
+    (PUNC .)))
+Number of parses: 1
+
+They published their research today online.
+(S
+  (NP They)
+  (_X_5
+    (VP
+      (VP
+        (VP (VBD published) (NP (PossPro their) (NP research)))
+        (ADVP today))
+      (ADVP online))
+    (PUNC .)))
+Number of parses: 1
+
+The immune response is alerted by dendritic cells.
+(S
+  (NP (Det The) (NP (ADJP immune) (NP response)))
+  (_X_5
+    (VP
+      (VBZ is)
+      (VP
+        (VBD alerted)
+        (PP (Prep by) (NP (ADJP dendritic) (NP cells)))))
+    (PUNC .)))
+Number of parses: 1
+
+They capture infected cells and display fragments of the pathogen.
+(S
+  (NP They)
+  (_X_5
+    (VP
+      (VP (VBP capture) (NP (ADJP infected) (NP cells)))
+      (_X_3
+        (Conj and)
+        (VP
+          (VBP display)
+          (_X_7
+            (NP fragments)
+            (PP (Prep of) (NP (Det the) (NP pathogen)))))))
+    (PUNC .)))
+Number of parses: 1
+
+Dr Jose Villadangos is a researcher of the immune system.
+(S
+  (NP (NP (NP Dr) (NP Jose)) (NP Villadangos))
+  (_X_5
+    (VP
+      (VBZ is)
+      (NP
+        (Det a)
+        (_X_7
+          (NP researcher)
+          (PP
+            (Prep of)
+            (NP (Det the) (NP (ADJP immune) (NP system)))))))
+    (PUNC .)))
+Number of parses: 1
+
+Systemic infections overstimulate dendritic cells. 
+(S
+  (NP (ADJP Systemic) (NP infections))
+  (_X_5
+    (VP (VBP overstimulate) (NP (ADJP dendritic) (NP cells)))
+    (PUNC .)))
+Number of parses: 1
+
+They injected them with a live vaccine.
+(S
+  (NP They)
+  (_X_5
+    (VP
+      (VBD injected)
+      (_X_7
+        (NP them)
+        (PP (Prep with) (NP (Det a) (NP (ADJP live) (NP vaccine))))))
+    (PUNC .)))
+Number of parses: 1
+
+The vaccine was made of dendritic cells.
+(S
+  (NP (Det The) (NP vaccine))
+  (_X_5
+    (VP
+      (VBD was)
+      (VP (VBN made) (PP (Prep of) (NP (ADJP dendritic) (NP cells)))))
+    (PUNC .)))
+Number of parses: 1
+
+They restored immunity in mice with a weak immune system.
+(S
+  (NP They)
+  (_X_5
+    (VP
+      (VBD restored)
+      (_X_7
+        (_X_7 (NP immunity) (PP (Prep in) (NP mice)))
+        (PP
+          (Prep with)
+          (NP
+            (Det a)
+            (NP (ADJP (ADJP weak) (ADJP immune)) (NP system))))))
+    (PUNC .)))
+Number of parses: 1
+
+Their immune system was compromised by sepsis.
+(S
+  (NP (PossPro Their) (NP (ADJP immune) (NP system)))
+  (_X_5
+    (VP (VBD was) (VP (VBN compromised) (PP (Prep by) (NP sepsis))))
+    (PUNC .)))
+Number of parses: 1
+
+In the case of infections, cells alert the immune system.
+(S
+  (PP
+    (Prep In)
+    (NP (Det the) (_X_7 (NP case) (PP (Prep of) (NP infections)))))
+  (_X_8
+    (COM ,)
+    (S
+      (NP cells)
+      (_X_5
+        (VP
+          (VBP alert)
+          (NP (Det the) (NP (ADJP immune) (NP system))))
+        (PUNC .)))))
+Number of parses: 1
+
+The immune system shuts down.
+(S
+  (NP (Det The) (NP (ADJP immune) (NP system)))
+  (_X_5 (VP (VBZ shuts) (RP down)) (PUNC .)))
+Number of parses: 1
+
+Scientists have discovered that malaria invades the whole body.
+(S
+  (NP Scientists)
+  (VP
+    (VBP have)
+    (VP
+      (VBN discovered)
+      (SBAR
+        (_X_2 that)
+        (S
+          (NP malaria)
+          (_X_5
+            (VP
+              (VBZ invades)
+              (NP (Det the) (NP (ADJP whole) (NP body))))
+            (PUNC .)))))))
+Number of parses: 1
+
